@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目创新助手"
+  short_description: "从模糊需求发散20个差异化方案，筛选验证并推动实现与指标迭代"
+  default_prompt: "使用 $project-innovation-assistant 将我的需求转成20个差异化项目候选，筛选并给出可验证的最佳方案。"
